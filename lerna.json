@@ -3,6 +3,7 @@
   "npmClient": "yarn",
   "command": {
     "publish": {
+      "conventionalCommits": true,
       "message": "[no ci] Release: %v"
     }
   },
